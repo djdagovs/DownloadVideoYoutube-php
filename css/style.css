@@ -1,0 +1,62 @@
+/* Start Main Rule */
+body{
+ 
+    background: #f4f4f4;
+}
+*{
+    box-sizing: border-box;
+    
+}
+.container{
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+}
+.heddin{display: none;}
+.error{
+    color: #EE543A;
+    border: 1px solid;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+/* End Main Rule */
+.option-url{
+        position: absolute;
+    top: 91px;
+    margin-left: 9px;
+}
+.option-url p{
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.select-q{
+    width: 50%;
+    position: absolute;
+    left: 183px;
+    top: 7px;
+}
+.quantity p:first-child{
+    margin-left: 0;
+}
+.quantity p{
+    display: inline-block;
+    margin-left: 5px;
+}
+.quantity{
+        position: absolute;
+    left: 177px;
+    top: 9px;
+}
+
+.select-qu{
+    position: relative;
+    left: 20px;
+}
+.view-videos{
+    padding-top: 10px;
+}
+.view-links textarea{}
